@@ -91,8 +91,6 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         
         tableView.reloadData()
     
-    
-        
         // Clear and dismiss the input bar
         commentBar.inputTextView.text = nil
         showsCommentBar = false
@@ -162,7 +160,6 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
             
             selectedPost = post
         }
-        
         
 
     /*
