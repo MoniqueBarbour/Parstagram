@@ -22,8 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-# Parstagram - Part I
+<iframe src="https://giphy.com/embed/jTqwDZXWH6P2zVVpiQ" width="226" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jTqwDZXWH6P2zVVpiQ">via GIPHY</a></p># Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
