@@ -23,6 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://evening-savannah-74039.herokuapp.com/parse"
             })
         )
+        
         return true
     }
 
